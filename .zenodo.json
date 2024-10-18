@@ -1,0 +1,17 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-9606-1593",
+            "affiliation": "Arizona State University",
+            "name": "Stewart, Sarah T."
+        }
+    ],
+
+    "license": "GPL-3.0",
+
+    "title": "ANEOS Equation of State Model for Water",
+
+    "keywords": ["Equation of state", "ANEOS", "water", "H2O"],
+
+    "grants": [{"id":"DOE-NNSA DE-NA0003842 and DE-NA0004147"}]
+}
