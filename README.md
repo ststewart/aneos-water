@@ -3,7 +3,7 @@
 <b>Citation</b><br>
 Sarah T. Stewart (2024). ANEOS Equation of State Model for Water. Zenodo. http://doi.org/10.5281/zenodo.XXX<p>
 
-Open water_aneos.ipynb<p>
+Open aneos_water.ipynb or aneos_water.html<p>
 
 Sarah T. Stewart<br>
 sstewa56@asu.edu<br>
