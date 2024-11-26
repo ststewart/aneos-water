@@ -11,7 +11,6 @@
 
     "title": "ANEOS Equation of State Model for Water",
 
-    "keywords": ["Equation of state", "ANEOS", "water", "H2O"],
+    "keywords": ["Equation of state", "ANEOS", "water", "H2O"]
 
-    "grants": [{"id":"DOE-NNSA DE-NA0003842 and DE-NA0004147"}]
 }
